@@ -1,0 +1,14 @@
+
+.recipe{
+    float: left;
+    text-align: center;
+    margin-left: 7%;
+    background-color: black;
+    padding-bottom : 20px;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 10px;
+}
+.recbut{
+    background-color: white;
+}

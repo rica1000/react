@@ -1,0 +1,46 @@
+#newrecipe{
+    text-align: center;
+    margin-top: 100px;
+    width: 400px;
+    margin-left: 36.5%;
+    background-color: black;
+    padding: 1%;
+}
+#rcp{
+    padding: 20px;
+    background-color: rgb(25, 34, 49);
+    border-radius: 5px;
+    color: white;
+    margin-bottom: 20px;
+}
+::placeholder{
+    color: white;
+    opacity: 0.5;
+}
+.cing{
+    background-color: rgb(25, 34, 49);
+    padding: 10px;
+    border-radius: 5px;
+    border : none;
+    margin-bottom: 5px  ;
+    color: white;
+    margin-left: 5px;
+}
+p{color: white;}
+#save{
+    margin-top: 20px;
+    padding: 20px;
+    font-size: 20px;
+    background-color: rgb(25, 34, 49);
+    color: white;
+    border-radius: 5px;
+    border : none;
+}
+#save:hover,#next:hover{
+    background-color: white;
+    color: rgb(25, 34, 49);
+}
+#error{
+    border-color: red;
+    background-color: red;;
+}
